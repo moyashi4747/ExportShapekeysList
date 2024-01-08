@@ -2,8 +2,7 @@
 This is a simple Blender add-on that outputs a list of shape keys for the selected object in a text file.
 選択したオブジェクトのシェイプキー一覧をテキストファイルで出力するシンプルなblenderアドオンです。
 
-Blender 2.80~に対応
-Compatible for blender2.80~
+Blender 2.80~
 
 使い方
 1. シェイプキーを出力したいオブジェクトを選択します。
